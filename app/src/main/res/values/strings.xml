@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FAMBLAH</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">The project titled as ”FAMBLAH” (A Social Media Network)” is a Android based application.
+The FAMBLAH is a Social Networking Android Application that allows people to create a public account and interact with other people on the Application using internet.
+In this social networking application users can create free account and communicate with other users by making friends. A registered users can make there virtual world on our application and share good thoughts and ideas to other users by writing a post on this Application.
+</string>
+    <string name="about1">With thoughtful analysis and fearless work of our Team, We will track technology state in india and the world and provide a powerful security to connect you to with your friends and family.</string>
+    <string name="verification_request_desc">A verified badge is a check that appears next to an FAMBLAH account\'s name to indicate that the account is the authentic presence of a notable public figure, celebrity, global brand or entity it represents. \n\n Submitting a request for verification does not guarantee that your account will be verified.</string>
+    <string name="verification_request_desc1">We require a government-issued photo ID that shows your name and date of birth (e.g. driver\'s license, passport or national identification card) or official business documents (tax filling, recent utility bill. article of incorporation) in order to review of your request.</string>
+    <string name="INVITE_TEXT">Try FAMBLAH, its a very fast and secure social media platform. Get it at https://appsenjoy.com/Huhxr</string>
+    <string name="APP_NAME_CAP">FAMBLAH</string>
+    <string name="SNR">Server Not Responding</string>
+    <string name="EVE">Enter Valid Email</string>
+    <string name="EE">Enter Email</string>
+    <string name="EVN">Enter Valid Name</string>
+    <string name="EN">Enter Name</string>
+    <string name="DEV_MOBILE">+919867503256</string>
+    <string name="EP">Enter Password</string>
+    <string name="ENP">Enter New Password</string>
+    <string name="ECP">Enter Confirm Password</string>
+    <string name="PNM">Password Not Matched</string>
+    <string name="PG7">Password should be greater than 7 character</string>
+    <string name="SWW">Something Went Wrong</string>
+    <string name="EU">Enter Username</string>
+    <string name="REPORT_FEED">Report Feed</string>
+    <string name="REPORT_FEED_DESC">Report this feed if you think this feed is violating our community guidelines, We will investigate and take action on your report ASAP.\nNote:  No one even you also can\'t seen who\'s reported this feed.</string>
+    <string name="ARE_YOU_SURE_WANT_TO_DELETE">Are you sure want to delete</string>
+    <string name="FORGOT_PASSWORD">Forgot Password?</string>
+    <string name="no_blocked_users">No blocked users</string>
+    <string name="block_desc">Blocked users will no longer be able to send you a friend request also can\'t see what you have posted.</string>
+    <string name="delete_account_warning_desc">If you do not think you will use FAMBLAH again and would like your account deleted, we can take care of this for you. Keep in mind that you will not be able to reactivate your account or retrieve any of the content or information you have added.</string>
+    <string name="if_you_still_like_your_account_deleted_click">If you still like your account deleted, click "Delete My Account"</string>
+</resources>
